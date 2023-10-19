@@ -1,0 +1,6 @@
+git colne
+git add
+git commit 
+git push
+git status
+git pull
